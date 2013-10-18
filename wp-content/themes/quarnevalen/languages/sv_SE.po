@@ -1,0 +1,668 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quarnevalen v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-17 12:59:11+0000\n"
+"Last-Translator: admin <tedy@codeorig.in>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:16
+#@ requiredfoundation
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Den här inlägget är lösenordsskyddat."
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:32
+#, php-format
+#@ requiredfoundation
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:39
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:59
+#@ requiredfoundation
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:40
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:60
+#@ requiredfoundation
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:41
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:61
+#@ requiredfoundation
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &arr;"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:71
+#@ requiredfoundation
+msgid "Comments are closed."
+msgstr "Kommentarfunktionen är avstängd."
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:76
+#@ requiredfoundation
+msgid "Leave a Reply"
+msgstr "Lämna ett svar"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:76
+#, php-format
+#@ requiredfoundation
+msgid "Leave a Reply to %s"
+msgstr "Lämna ett svar till %s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:79
+#, php-format
+#@ requiredfoundation
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du måste vara <a href=\"%s\">inloggad</a> för att skriva en kommentar."
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:83
+#, php-format
+#@ requiredfoundation
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Inloggad som <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:83
+#@ requiredfoundation
+msgid "Log out of this account"
+msgstr "Logga ut från detta konto"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:83
+#@ requiredfoundation
+msgid "Log out &raquo;"
+msgstr "Logga ut &raquo;"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:86
+#@ requiredfoundation
+msgid "Name"
+msgstr "Namn"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:86
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:90
+#@ requiredfoundation
+msgid " (required)"
+msgstr "(obligatorisk)"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:90
+#@ requiredfoundation
+msgid "Email (will not be published)"
+msgstr "Epost (kommer inte att publiceras)"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:94
+#@ requiredfoundation
+msgid "Website"
+msgstr "Hemsida"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:99
+#@ requiredfoundation
+msgid "Comment"
+msgstr "Kommentar"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:102
+#@ requiredfoundation
+msgid "You can use these tags: "
+msgstr "Du kan använda dessa taggar:"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/comments.php:103
+#@ requiredfoundation
+msgid "Submit Comment"
+msgstr "Skicka kommentar"
+
+#: content-page.php:16
+#: content-slider.php:136
+#: content.php:37
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-page.php:16
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content.php:36
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/image.php:89
+#@ requiredfoundation
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: content.php:36
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-image.php:18
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-link.php:18
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-quote.php:17
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-status.php:20
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content.php:35
+#@ requiredfoundation
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:131
+#@ requiredstarter
+msgid "Meta Menu"
+msgstr "Meta Meny"
+
+#: functions.php:293
+#@ requiredstarter
+msgid " Read on! &rarr;"
+msgstr "Läs vidare! &rarr;"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/404.php:19
+#@ requiredfoundation
+msgid "404 &ndash; What have you done? You broke the internet!"
+msgstr "404 &ndash; Neej!"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/404.php:26
+#@ requiredfoundation
+msgid "The page you are looking for is gone. Perhaps searching or one of the links below will get you back on track."
+msgstr "Sidan du letar efter är försvunnen. Använd sökfunktionen eller länkarna nedan för att få dig på plats igen."
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/404.php:37
+#@ requiredfoundation
+msgid "Most Used Categories"
+msgstr "Frekventa kategorier"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/404.php:45
+#@ requiredfoundation
+msgid "Try looking in the monthly archives."
+msgstr "Försök att leta i månadsarkiven"
+
+#: content.php:17
+#: content.php:26
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-image.php:15
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-link.php:15
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-quote.php:14
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-status.php:12
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-status.php:17
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content.php:17
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content.php:25
+#, php-format
+#@ requiredfoundation
+msgid "Permalink to %s"
+msgstr "Permalänk till %s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-image.php:15
+#@ requiredfoundation
+msgctxt "Post format title"
+msgid "Image"
+msgstr "Bild"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-link.php:15
+#@ requiredfoundation
+msgctxt "Post format title"
+msgid "Link"
+msgstr "Länk"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-none.php:12
+#@ requiredfoundation
+msgid "Nothing Found"
+msgstr "Inget hittat"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-none.php:16
+#@ requiredfoundation
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Tyvärr finns det inga resultat för detta arkiv. Försök att använda sökfunktionen för att hitta ett inlägg."
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-quote.php:14
+#@ requiredfoundation
+msgctxt "Post format title"
+msgid "Quote"
+msgstr "Citat"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content-status.php:17
+#@ requiredfoundation
+msgctxt "Post format title"
+msgid "Status"
+msgstr "Status"
+
+#: content.php:26
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/content.php:25
+#@ requiredfoundation
+msgctxt "Post format title"
+msgid "Featured"
+msgstr "Utvald"
+
+#. translators: used between list items, there is a space after the comma
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:17
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:27
+#@ requiredfoundation
+msgid ", "
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:21
+#, php-format
+#@ requiredfoundation
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Postad inom</span> %2$s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:33
+#, php-format
+#@ requiredfoundation
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Taggad</span> %2$s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:43
+#@ requiredfoundation
+msgid "Leave a reply"
+msgstr "Lämna ett svar"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:43
+#@ requiredfoundation
+msgid "<b>1</b> Reply"
+msgstr "<b>1</b> Svar"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:43
+#@ requiredfoundation
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> Svar"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:52
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:494
+#, php-format
+#@ requiredfoundation
+msgid "About %s"
+msgstr "Om %s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/entry-meta.php:56
+#, php-format
+#@ requiredfoundation
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/footer.php:28
+#@ requiredfoundation
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/footer.php:28
+#@ requiredfoundation
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/footer.php:28
+#, php-format
+#@ requiredfoundation
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:92
+#@ requiredfoundation
+msgid "<p>This site runs on the <a href=\"http://themes.required.ch/\" title=\"required+ Themes\">required+ Foundation</a> Theme. Based on the awesome <a href=\"http://foundation.zurb.com/\" title=\"Rapid prototyping and building library from ZURB.\">Foundation</a> Framework by the humble folks at <a href=\"http://www.zurb.com/\" title=\"Design for people\">ZURB</a>.</p>"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:140
+#@ requiredfoundation
+msgid "Primary Menu"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:141
+#@ requiredfoundation
+msgid "Secondary Menu"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:182
+#, php-format
+#@ requiredfoundation
+msgid "Page %s"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:205
+#@ requiredfoundation
+msgid "&hellip; Continue reading &rarr;"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:237
+#@ requiredfoundation
+msgid "Main Sidebar"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:246
+#@ requiredfoundation
+msgid "Footer Area One"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:248
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:258
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:268
+#@ requiredfoundation
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:256
+#@ requiredfoundation
+msgid "Footer Area Two"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:266
+#@ requiredfoundation
+msgid "Footer Area Three"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:285
+#@ requiredfoundation
+msgid "Post navigation"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:351
+#@ requiredfoundation
+msgid "Pingback:"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:351
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:385
+#@ requiredfoundation
+msgid "Edit"
+msgstr ""
+
+#. translators: 1: comment author, 2: date and time
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:366
+#, php-format
+#@ requiredfoundation
+msgid "<h6>%1$s on %2$s <span class=\"says\">said:</span></h6>"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:372
+#, php-format
+#@ requiredfoundation
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:380
+#@ requiredfoundation
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:388
+#@ requiredfoundation
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:406
+#, php-format
+#@ requiredfoundation
+msgid "<h6>Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span> on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a></h6>"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:412
+#, php-format
+#@ requiredfoundation
+msgid "View all posts by %s"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:459
+#, php-format
+#@ requiredfoundation
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:474
+#, php-format
+#@ requiredfoundation
+msgid "Tag Archives: %s"
+msgstr "Taggarkiv: %s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:489
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:500
+#, php-format
+#@ requiredfoundation
+msgid "Author Archives: %s"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:508
+#, php-format
+#@ requiredfoundation
+msgid "Daily Archives: %s"
+msgstr "Dagliga arkiv: %s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:510
+#, php-format
+#@ requiredfoundation
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:510
+#@ requiredfoundation
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:512
+#, php-format
+#@ requiredfoundation
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:512
+#@ requiredfoundation
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:514
+#@ requiredfoundation
+msgid "Blog Archives"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/functions.php:522
+#, php-format
+#@ requiredfoundation
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/image.php:25
+#, php-format
+#@ requiredfoundation
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/image.php:40
+#@ requiredfoundation
+msgid "Image navigation"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/image.php:41
+#@ requiredfoundation
+msgid "&larr; Previous"
+msgstr "&larr; Föregående"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/image.php:42
+#@ requiredfoundation
+msgid "Next &rarr;"
+msgstr "Nästa &rarr;"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-foundation.php:30
+#@ requiredfoundation
+msgid "&laquo;"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-foundation.php:31
+#@ requiredfoundation
+msgid "&raquo;"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-foundation.php:53
+#, php-format
+#@ requiredfoundation
+msgid "Please assign a menu to the primary menu location under %1$s or %2$s the design."
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-foundation.php:54
+#, php-format
+#@ requiredfoundation
+msgid "<a href=\"%s\">Menus</a>"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-foundation.php:57
+#, php-format
+#@ requiredfoundation
+msgid "<a href=\"%s\">Customize</a>"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-foundation.php:267
+#@ requiredfoundation
+msgid "&larr; Home"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:58
+#@ requiredfoundation
+msgid "Button"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:64
+#@ requiredfoundation
+msgid "Lead Paragraph"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:69
+#@ requiredfoundation
+msgid "Label"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:74
+#@ requiredfoundation
+msgid "Panel"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:80
+#@ requiredfoundation
+msgid "Panel callout"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:87
+#@ requiredfoundation
+msgid "Radius (Panel, Label, Button)"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:93
+#@ requiredfoundation
+msgid "Round (Label, Button)"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:99
+#@ requiredfoundation
+msgid "Alert (Label, Button)"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:104
+#@ requiredfoundation
+msgid "Success (Label, Button)"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:109
+#@ requiredfoundation
+msgid "Secondary (Label, Button)"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:114
+#@ requiredfoundation
+msgid "Subheader (Headings)"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:119
+#@ requiredfoundation
+msgid "Keyboard CMD"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/includes/req-mce.php:123
+#@ requiredfoundation
+msgid "Cite"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/page-templates/off-canvas-page.php:20
+#@ requiredfoundation
+msgid "Menu"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/searchform.php:11
+#@ requiredfoundation
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/searchform.php:14
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/searchform.php:17
+#@ requiredfoundation
+msgid "Search"
+msgstr "Sök"
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/sidebar.php:15
+#@ requiredfoundation
+msgid "There are no widgets yet!"
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/sidebar.php:16
+#@ requiredfoundation
+msgid "Please add some real widgets, because otherwise your visitors get nothing but whitespace here."
+msgstr ""
+
+#: /Users/tedyw/Dropbox/Server/htdocs/quarnevalen/wp-content/themes/required-foundation/sidebar.php:17
+#@ requiredfoundation
+msgid "Add widgets"
+msgstr ""
+
+#: content-slider.php:14
+#: content-slider.php:18
+#@ quarnevalen
+msgid "Contact Us"
+msgstr "Kontakta Oss"
+
+#: functions.php:345
+#@ default
+msgid "Companies"
+msgstr "Företag"
+
+#: functions.php:346
+#@ default
+msgid "Company"
+msgstr "Företag"
+
+#: functions.php:361
+#@ default
+msgid "Superiors"
+msgstr "Chefer"
+
+#: functions.php:362
+#@ default
+msgid "Superior"
+msgstr "Chef"
+
+#: page-templates/slider.php:23
+#@ quarnevalen
+msgid "Up"
+msgstr "Upp"
+
+#: page-templates/slider.php:30
+#@ quarnevalen
+msgid "Down"
+msgstr "Ner"
+
+#: page-forum-statistics.php:25
+#@ bbpress
+msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+msgstr ""
+
+#: page-forum-statistics.php:37
+#@ bbpress
+msgid "Popular Topics"
+msgstr ""
+
+#: page-topic-tags.php:25
+#@ bbpress
+msgid "<p>This is a collection of tags that are currently popular on our forums.</p>"
+msgstr ""
+
+#: taxonomy-topic-tag-edit.php:20
+#: taxonomy-topic-tag.php:20
+#, php-format
+#@ bbpress
+msgid "Topic Tag: %s"
+msgstr ""
+
